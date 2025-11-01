@@ -24,7 +24,7 @@ A complete College Management System built with MERN Stack (MongoDB, Express.js,
 3. Frontend: `cd frontend && npm install && npm start`
 
 ## 👨‍💻 Developer
-**Pranav Kadam** - [GitHub Profile](https://github.com/TERE_USERNAME)
+**Pranav Kadam** - [GitHub Profile](https://github.com/pranavop45)
 
 ## 📄 License
 This project is licensed under the MIT License.
